@@ -1,5 +1,5 @@
 {
-  "token": "YOUR_FAKE_ACCESS_TOKEN",
+  "token": "yap12345",
   "posts": [
     { "id": 1, "title": "Hello World" }
   ],
